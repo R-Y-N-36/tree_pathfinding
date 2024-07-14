@@ -1,6 +1,4 @@
 
-### README.md
-```markdown
 # Tree Pathfinding
 
 This project implements a tree structure and a pathfinding algorithm that finds the shortest path from the root to specified target nodes based on heuristic values.
