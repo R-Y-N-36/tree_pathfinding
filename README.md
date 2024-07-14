@@ -1,7 +1,4 @@
 
-### Folder Name
-- **Folder Name**: `tree_pathfinding`
-
 ### README.md
 ```markdown
 # Tree Pathfinding
